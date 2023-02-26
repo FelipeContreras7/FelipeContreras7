@@ -13,7 +13,7 @@
 <div id="about">
 <h1>:bust_in_silhouette: About me</h1>
 <p>- :speech_balloon: I like challenges, and finding the way to solve them</p>
-<p>- :arrow_left: Started at the world of programming on june 2021, working with a friend at his company CrystalDev</p>
+<p>- :arrow_left: Started at the world of programming on february 2022, working with a friend at his company CrystalDev</p>
 <p>- :point_right: On june 2022, I started an official programming course at Coursera</p>
 <p>- :bookmark: On february 2023, finished the course and got the Meta Front-End Developer certificate.</p>
 <p>- :mag: Currently looking for my first official job</p>
