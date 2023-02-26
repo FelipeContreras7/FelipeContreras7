@@ -1,7 +1,7 @@
 <div id="header" align="center"> 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdmZjA4Y2RjZTEwYjJhNjhmYTk3MjEwZWZhNmEyZjJiOTEwYmM0NiZjdD1n/K7StRcr7hagJpXROmb/giphy.gif" height="200px">
   <h1 align="center">Hi! Felipe here :wave:</h1>
-  <h3 align="center">Just a beginner front-end developer from Jujuy, Argentina. Currently working as accountant (that's my college degree :scroll:), and looking for my first chance in a software related job :briefcase:.
+  <h3 align="center">Just a beginner front-end developer from Jujuy, Argentina. Currently working as accountant (that's my college degree :scroll:), and looking for my first chance in an official software related job :briefcase:.
 </div>
 <div id="sub" align="center" display="flex">
   <a href="https://www.linkedin.com/in/felipe-contreras-87b1b5266">
